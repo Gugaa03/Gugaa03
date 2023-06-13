@@ -40,10 +40,6 @@
 
    <a href="https://github.com/Gugaa03" target="_blank">
       <img src=https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Reyfow profile"  />
-   
-   
-   ### 🐍 Snake eating contribution graph 🐍
-    
- # ![Snake animation](https://github.com/Gugaa03/Gugaa03/blob/main/.github/workflows/blank.yml)
+ 
     
 </div>
