@@ -44,6 +44,6 @@
    
    ### 🐍 Snake eating contribution graph 🐍
     
-  ![Snake animation](https://github.com/ReyFow/ReyFow/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gugaa03/Gugaa03/blob/output/github-contribution-grid-snake.svg)
     
 </div>
