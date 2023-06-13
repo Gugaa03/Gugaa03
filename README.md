@@ -44,6 +44,6 @@
    
    ### 🐍 Snake eating contribution graph 🐍
     
-  ![Snake animation](https://github.com/Gugaa03/Gugaa03/blob/main/.github/workflows/blank.yml)
+ # ![Snake animation](https://github.com/Gugaa03/Gugaa03/blob/main/.github/workflows/blank.yml)
     
 </div>
