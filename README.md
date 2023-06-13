@@ -39,7 +39,7 @@
    ### 💩 Some of my friends
 
    <a href="https://github.com/Gugaa03" target="_blank">
-      <img src=https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Reyfow profile"  />
- 
-    
+      <img src=https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Reyfow profile" />
+       <a href=" https://github.com/marcuscabral21" target="_blank">
+        <img src= https://avatars.githubusercontent.com/u/101330678?v=4 height="40" alt="marcuscabral21  profile"  />
 </div>
