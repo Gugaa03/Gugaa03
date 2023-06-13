@@ -28,6 +28,8 @@
   ### 👨‍💻 Current IDE
   
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30' />
+                                                                                                                   
+  <img src='https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4095d654-96d0-11e6-87f8-00163ed833e7/1965154745/bloodshed-dev-c-icon.jpg' alt='devc++' height='30' />
   
   ### 📫 How to reach me
   
