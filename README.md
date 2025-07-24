@@ -41,14 +41,6 @@
 
 ---
 
-### 🏆 GitHub Trophies (animated)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gugaa03&theme=tokyonight&column=7" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
