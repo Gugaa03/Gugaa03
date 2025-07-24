@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif" width="30"/>!
-  I'm Gustavo Silva — a Software Engineer from <b>Vila Real, Portugal</b>
+  I'm Gustavo Silva — a Software Engineer from <b>Vila Real, Portugal</b> 🇵🇹
 </h2>
 
 ---
@@ -23,9 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="Adobe XD"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
 
 ---
@@ -35,7 +36,16 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
   <img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4095d654-96d0-11e6-87f8-00163ed833e7/1965154745/bloodshed-dev-c-icon.jpg" height="30" alt="Dev C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio"/>
 </div>
+
+---
+
+### 🏆 GitHub Trophies (animated)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gugaa03&theme=tokyonight&column=7" />
+</p>
 
 ---
 
