@@ -45,7 +45,9 @@
 
 ### 📊 Contributions
 
-![snake gif](https://github.com/Gugaa03/Gugaa03/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contributions
+
+![GitHub Contributions Snake](https://github.com/Gugaa03/Gugaa03/blob/main/github-contribution-grid-snake.svg)
 
 
 
