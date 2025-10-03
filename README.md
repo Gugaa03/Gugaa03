@@ -33,20 +33,20 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_Icon_2021.svg" height="35" alt="Android Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_Icon_2021.svg" height="35" alt="Android Studio"/>
   <img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4095d654-96d0-11e6-87f8-00163ed833e7/1965154745/bloodshed-dev-c-icon.jpg" height="35" alt="Dev C++"/>
 </div>
 
 ---
 
-### 🔧 GitHub & Git
+### 🔧 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Gugaa03">
     <img src="https://github-readme-stats.vercel.app/api?username=Gugaa03&show_icons=true&count_private=true&title_color=8c1aff&text_color=ffffff&icon_color=8c1aff&bg_color=1d1f21&border_color=000000" width="48%" />
   </a>
   <a href="https://github.com/Gugaa03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gugaa03&theme=dark&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugaa03&layout=compact&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" width="48%" />
   </a>
 </div>
 
