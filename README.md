@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_Icon_2021.svg" height="35" alt="Android Studio"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_Icon_2021.svg" height="35" alt="Android Studio"/>
   <img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4095d654-96d0-11e6-87f8-00163ed833e7/1965154745/bloodshed-dev-c-icon.jpg" height="35" alt="Dev C++"/>
 </div>
 
