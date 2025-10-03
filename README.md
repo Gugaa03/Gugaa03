@@ -47,7 +47,7 @@
 
 ### 🐍 GitHub Contributions
 
-![Animação da Cobra](https://github.com/Gugaa03/Gugaa03/blob/main/dist/github-contribution-grid-snake.svg)
+![GitHub Contributions Snake](https://github.com/Gugaa03/Gugaa03/blob/main/github-contribution-grid-snake.svg)
 
 
 
