@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif" width="30"/>  
   I'm <b>Gustavo Silva</b> — Software Engineer from <b>Porto, Portugal</b> 🇵🇹
 </h2>
@@ -7,16 +7,16 @@
 
 ### 💼 About Me
 
-🎓 Graduated in **Software Engineering** at **UTAD**  
-💡 Passionate about **automation**, **data scraping**, and building useful tools  
-🛠️ Skilled in **Python**, **C**, **Java** and always exploring new technologies  
-🌍 Languages: **Portuguese (native)**, **English (advanced)**  
+🎓 Software Engineer passionate about **automation, data scraping**, and building **useful tools**.  
+🛠️ Skilled in **Python, C, Java** and always exploring new technologies.  
+🌍 Languages: **Portuguese (native)**, **English (advanced)**.  
+🔗 Check out my portfolio: [gustavosilvaportfolio.vercel.app](https://gustavosilvaportfolio.vercel.app)
 
 ---
 
 ### 🧰 Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -25,14 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="Adobe XD"/>
 </div>
 
 ---
 
 ### 💻 IDEs I Use
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio"/>
   <img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4095d654-96d0-11e6-87f8-00163ed833e7/1965154745/bloodshed-dev-c-icon.jpg" height="35" alt="Dev C++"/>
