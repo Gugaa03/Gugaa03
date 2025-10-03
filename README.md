@@ -43,16 +43,21 @@
 
 ---
 
-### 🔧 GitHub Stats
+### 📈 Contributions
 
 <div align="center">
-  <a href="https://github.com/Gugaa03">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gugaa03&show_icons=true&count_private=true&title_color=8c1aff&text_color=ffffff&icon_color=8c1aff&bg_color=1d1f21&border_color=000000" width="48%" />
-  </a>
-  <a href="https://github.com/Gugaa03">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugaa03&layout=compact&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" width="48%" />
-  </a>
+  <!-- Contribution graph -->
+  <img src="https://ghchart.rshah.org/Gugaa03" alt="Gustavo's GitHub chart" />
+
+  <p>
+    🐍 🐍 🐍
+  </p>
+
+  <p>
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="snake" height="28" />
+  </p>
 </div>
+
 
 ---
 
