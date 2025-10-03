@@ -22,5 +22,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add github-contribution-grid-snake.svg
-          git commit -m "Update contribution snake" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Update contribution snake"
           git push
