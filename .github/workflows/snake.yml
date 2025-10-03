@@ -1,0 +1,24 @@
+name: GitHub Contributions Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # roda todo dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate GitHub Contribution Snake
+        uses: platane/snk@v1.0.0
+        with:
+          username: Gugaa03
+          output: github-contribution-grid-snake.svg
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || echo "No changes"
+          git push
