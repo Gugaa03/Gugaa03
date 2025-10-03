@@ -43,20 +43,10 @@
 
 ---
 
-### 📈 Contributions
+### 📊 Contributions
 
-<div align="center">
-  <!-- Contribution graph -->
-  <img src="https://ghchart.rshah.org/Gugaa03" alt="Gustavo's GitHub chart" />
+![snake gif](https://github.com/Gugaa03/Gugaa03/blob/output/github-contribution-grid-snake.svg)
 
-  <p>
-    🐍 🐍 🐍
-  </p>
-
-  <p>
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="snake" height="28" />
-  </p>
-</div>
 
 
 ---
