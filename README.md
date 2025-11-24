@@ -5,17 +5,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif" width="30"/>
 </div>
 
----
-
-### 🚀 Sobre Mim
-
-Sou um **Software Engineer** apaixonado por transformar ideias em soluções funcionais. Minha experiência foca em:
-
-* **Automação** e **Data Scraping** para otimizar processos e coletar dados eficientemente.
-* Desenvolvimento de **ferramentas úteis** e de alto impacto.
-* Fluente em **Português (nativo)** e **Inglês (avançado)**.
-
-Estou sempre explorando novas tecnologias, com interesse atual em aprofundar conhecimentos em **.NET**.
 
 * **Portfólio:** [gustavosilvaportfolio.vercel.app](https://gustavosilvaportfolio.vercel.app)
 
