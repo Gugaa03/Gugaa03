@@ -23,14 +23,6 @@ Estou sempre explorando novas tecnologias, com interesse atual em aprofundar con
 
 ### 🛠️ Hard Skills: Linguagens & Frameworks
 
-Minhas principais áreas de atuação e proficiência incluem:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens Principais** | **Python**, **C**, **Java**, **JavaScript**, **TypeScript**, **Kotlin** |
-| **Web e Estrutura** | HTML5, CSS3, JavaScript |
-| **Bancos de Dados** | MySQL, SQLite, Supabase, SQL Server |
-| **Controle de Versão** | Git |
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -61,20 +53,6 @@ Ambientes de desenvolvimento e ferramentas que utilizo no meu dia a dia:
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-Fique à vontade para explorar meus repositórios e contribuições!
-
-<div align="center">
-  <a href="https://github.com/Gugaa03">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gugaa03&show_icons=true&count_private=true&title_color=8c1aff&text_color=ffffff&icon_color=8c1aff&bg_color=1d1f21&border_color=000000" width="48%" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Gugaa03">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugaa03&layout=compact&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" width="48%" alt="Top Languages"/>
-  </a>
-</div>
-
----
 
 ### 📧 Fale Comigo
 
