@@ -1,4 +1,4 @@
-## 👋 Olá, sou **Gustavo Silva**
+## 👋 Olá, sou o **Gustavo Silva**
 ### 👨‍💻 Software Engineer em Porto, Portugal 🇵🇹
 
 <div align="center">
